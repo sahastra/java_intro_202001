@@ -2,4 +2,4 @@
 Java Introduction 202001 
 
 C1:
-Download source files using above [View code] button.
+Download source files clicking above [View code] button.
