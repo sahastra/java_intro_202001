@@ -1,0 +1,34 @@
+(Attempt any 10 Questions)
+
+Q1. Write a program to print below output
+  Hello Tokyo 2020
+  Welcome !!!
+
+Q2. Create a calculator which can work with three numbers
+Q3. Create a Tax Calculator with below requirements
+  if salary 500000 then tax rate 10%
+  if salary greater than 500000 and less than 1000000 then tax rate 20%
+  if salary above 1000000 then tax rate 30%
+  if salary below 500000 then no tax
+
+  Print the results for below casese,
+  1. Salary = 500000
+  2. Salary = 800000
+  3. Salary = 400000
+  4. Salary = 1200000
+  
+  Result format,
+  Print Original Salary, Tax amount, Tax rate and Net Salary
+ 
+Q4. What is the difference between "if" and "if else" contruct, give an example
+Q5. List data types in Java
+Q6. Explain what is the meaning of java is strictly typed language with an example
+Q7. String is primitive data type, True or False
+Q8. Explain with an example, signiture of method
+Q9. Why we have to pass parameters to method
+Q10. What is the advantage of creating a method
+Q11. What is the difference between Class and Method
+Q12. Write a method to square a number and print the result, write a program. 
+
+  
+  
