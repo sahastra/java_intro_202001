@@ -1,1 +1,91 @@
 
+Assignment : 20 Practice Questions
+Please Write a program for each of below question.
+Instructions:
+a) Create separate Java file for first 10 questions, and one Java file for 11 to 20. 
+b) Print Question, Solution (Program) and the Output while submitting the assignment
+
+Q1. Write a program (WAP) to print 7 numbers using for loop and while loop
+Q2. Print only EVEN numbers out of above 7 numbers
+Q3. Ask user to enter the number and Print square of it.
+For example, 
+if user enters 4 print 16
+if user enters 5 print 25
+Q4. Ask user to enter the number and Print if it is even or odd number
+Q5. Ask user to enter 5 cities (such as Tokyo, Osaka,...) and print the sorted output
+Q6. Ask user to enter 5 numbers (such as 2, 1.1,...) and print the sorted output
+Q7. Ask user to enter 2 numbers and print the LARGEST number
+Q8. Ask user to enter 3 numbers and print the SMALLEST number
+Q9. Ask user to enter 3 numbers and print sum of all the numbers
+Q10. Ask user to enter 5 numbers and print sum of only EVEN numbers
+Q11. Print output of below code 
+		int x = 10;
+		double y = 10.1;
+		double result = x / y;
+		System.out.println(result); 
+    
+Q12. Print output of below code 
+		int a1 = 100;
+		int a2 = 200;
+		
+		if ((a1 * 2) >= a2) {
+			System.out.println("a1 and a2 are equal !"); 
+		}
+
+Q13. Print output of below code 
+		int b1 = 105;
+
+		while (b1 > 100) {
+			System.out.println(b1); 
+			b1--;
+		}
+    
+Q14. Print output of below code 
+		int c1 = 100;
+
+		do {
+			System.out.println("c1 : " + c1); 
+			c1++;
+		} while (c1 > 105);
+
+Q15. Print output of below code 
+		int d1 = 100;
+
+		do {
+			d1++;
+			System.out.println("d1 : " + d1); 
+		} while (d1 > 105);
+
+Q16. Print output of below code 
+		int e1 = 105;
+
+		do {
+			e1--;
+			System.out.println("e1 : " + e1); 
+		} while (e1 > 100);
+
+Q17. Print output of below code 
+		String[] cityList = {"Tokyo", "Osaka", "Nagoya"};
+		System.out.println("City name : " + cityList[3]); 
+    
+Q18. Print output of below code 
+		String[] cityList = {"Tokyo", "Osaka", "Nagoya"};
+		System.out.println("City name : " + cityList[0]); 
+    
+Q19. Print output of below code 
+		String[] cityList = {"Tokyo", "Osaka", "Nagoya"};
+		
+		for (String city : cityList) {
+		    System.out.println("City name : " + city);
+		    
+		    if (city.equalsIgnoreCase("Tokyo")) {
+		    	break;
+		    }
+		}
+    
+Q20. Print output of below code 
+    int i = -1;
+		
+		if (i < 0 || i == 0) {
+			System.out.println(i); 
+		}
