@@ -84,7 +84,7 @@ Q19. Print output of below code
 		}
     
 Q20. Print output of below code 
-    int i = -1;
+    		int i = -1;
 		
 		if (i < 0 || i == 0) {
 			System.out.println(i); 
