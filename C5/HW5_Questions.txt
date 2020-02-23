@@ -40,7 +40,7 @@ Q.11 Print output of below code.
 		String[] cells = customerRecord.split(",");
 		System.out.println(cells[0].toUpperCase());
     
-Q.12 How to fix below code to print "Thank you !"
+Q.12 Print output of below code.
 		
                 String customerRecord = "John, Smith, A101, 2000";
 		String[] cells = customerRecord.split(",");
