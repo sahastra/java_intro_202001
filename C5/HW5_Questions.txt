@@ -42,7 +42,7 @@ Q.11 Print output of below code.
     
 Q.12 How to fix below code to print "Thank you !"
 		
-    String customerRecord = "John, Smith, A101, 2000";
+                String customerRecord = "John, Smith, A101, 2000";
 		String[] cells = customerRecord.split(",");
 		System.out.println(cells[4]);
     
