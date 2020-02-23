@@ -30,7 +30,7 @@ Q.8 You can create your own custom exception class in Java, true or false?
 Q.9 How to read a CSV file using Scanner? Print output.
 Q.10 Print output of below code.
 	  
-    String customerRecord = "John, Smith, A101, 2000";
+                String customerRecord = "John, Smith, A101, 2000";
 		String[] cells = customerRecord.split(",");
 		System.out.println(cells[3]);
     
