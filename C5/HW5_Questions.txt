@@ -1,1 +1,46 @@
+- Attempt any 10 Questions 
+- Print output along with the original question
 
+Q.1 What is the difference between Error and Exception in Java?
+Q.2 Explain try...catch block with example
+Q.3 What is the purpose of finally in try ... catch block?
+Q.4 List any 3 Exceptions types in Java, such as FileNotFoundException ?
+
+Q.5 What is the output of below code ?
+		String[] cityList = {"Tokyo", "Osaka", null, "New york"};
+		
+		for (int i = 0; i < cityList.length; i++) {
+			System.out.println(cityList[i]);
+		}
+
+Q.6 How to fix below code to print "Thank you !"
+		
+		String[] cityList = {"Tokyo", "Osaka", null, "New york"};
+		
+		for (int i = 0; i < cityList.length; i++) {
+			System.out.println(cityList[i].toLowerCase());
+		}
+		
+		System.out.println("Thank you !");
+
+Q.7 What are the two ways to handle Exceptions?
+Q.8 You can create your own custom exception class in Java, true or false?
+Q.9 How to read a CSV file using Scanner? Print output.
+Q.10 Print output of below code.
+	  
+    String customerRecord = "John, Smith, A101, 2000";
+		String[] cells = customerRecord.split(",");
+		System.out.println(cells[3]);
+    
+Q.11 Print output of below code.
+
+		String customerRecord = "John, Smith, A101, 2000";
+		String[] cells = customerRecord.split(",");
+		System.out.println(cells[0].toUpperCase());
+    
+Q.12 How to fix below code to print "Thank you !"
+		
+    String customerRecord = "John, Smith, A101, 2000";
+		String[] cells = customerRecord.split(",");
+		System.out.println(cells[4]);
+    
