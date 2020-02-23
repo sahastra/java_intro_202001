@@ -2,7 +2,7 @@
 - Print output along with the original question
 
 HW5
-
+---
 Q.1 What is the difference between Error and Exception in Java?
 Q.2 Explain try...catch block with example
 Q.3 What is the purpose of finally in try ... catch block?
