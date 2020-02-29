@@ -5,3 +5,11 @@ https://github.com/sahastra/java_intro_202001/tree/master/Project1_POSApp
 2. Run the POSApp application by running POSMain class
 3. Enter item id and quantity and check the output of final receipt
 4. Take a print out of the Input and Output values used in step 3 above
+
+5. Home work: 
+Modify the program to store all the transactions to the transaction.txt
+Use below specification to store the transactions
+transaction_id,date,total_amount
+
+Example,
+1232323,20200229,11000
