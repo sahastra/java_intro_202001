@@ -1,0 +1,4 @@
+1. Go through the POSApp project source code
+2. Run the POSApp application by running POSMain class
+3. Enter item id and quantity and check the output of final receipt
+4. Take a print out of the Input and Output values used in step 3 above
